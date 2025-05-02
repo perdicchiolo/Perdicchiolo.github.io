@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 100%;
+ }
+
+ header h1{
+    text-align: center;
+    width: 100;
+    background-color: yellow;
+ }
+ 
+ img{
+    width: 50%;
+    text-align: center;
+ }
+ 
+
+
